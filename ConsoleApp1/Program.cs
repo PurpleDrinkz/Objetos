@@ -34,7 +34,7 @@ namespace PrácticaObjetos
             Contacto contaco1 =
                 new Contacto();
 
-            contaco1.Nombre = "Benjamin Ortega";
+            contaco1.Nombre = "Benjamin Ortega"; 
             contaco1.TelefonodeCasa = " (642)422 32 58 ";
             contaco1.Dirección = "Galeana #111";
 
